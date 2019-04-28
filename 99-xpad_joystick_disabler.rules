@@ -1,0 +1,1 @@
+KERNEL=="js*", RUN+="/usr/local/bin/xpad_joystick_disabler"
